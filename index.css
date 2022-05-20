@@ -1,0 +1,20 @@
+            a{
+                text-decoration: none;
+                color: white;
+            }
+            body{
+                background-color:#000;
+            }
+            #logo{
+                width:3rem;
+            
+            }
+            #captions:hover{
+                color: white;
+                font-size: 2rem;
+                
+            }
+            #pagination{
+                width:100%;
+               
+            }
